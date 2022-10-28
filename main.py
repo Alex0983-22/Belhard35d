@@ -1,2 +1,3 @@
 print('hello world')
-priht('hello python')
+print('hello python')
+print('hello python')
